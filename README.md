@@ -1,1 +1,2 @@
-My official readme file
+My vagrant readme file
+# This is a vagrant ptoject
